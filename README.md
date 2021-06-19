@@ -1,2 +1,2 @@
-# Brand-Name-Generator
-This is a small simply program that takes two user inputs and generate a possible brand name from those inputs based on the user city of origin and pet name.
+# Beer-Name-Generator
+This is a small simple program writen in Python 3 that takes a few user inputs and generate a possible beer name from those inputs.
